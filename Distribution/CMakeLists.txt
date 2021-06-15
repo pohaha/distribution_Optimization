@@ -1,1 +1,1 @@
-add_library(distribution cell.cpp distribution.cpp)
+add_library(distribution cell.cpp distribution.cpp redistribution.cpp)
